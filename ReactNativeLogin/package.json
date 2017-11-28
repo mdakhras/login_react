@@ -1,0 +1,14 @@
+{
+  "name": "ReactNativeLogin",
+  "version": "0.0.1",
+  "private": true,
+  "scripts": {
+    "start": "node node_modules/react-native/local-cli/cli.js start"
+  },
+  "dependencies": {
+    "react": "^0.14.7",
+    "react-native": "^0.22.2",
+    "react-native-button": "1.2.0",
+    "react-native-cookies": "2.0.0"
+  }
+}
